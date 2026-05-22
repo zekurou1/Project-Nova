@@ -1,5 +1,6 @@
 // config.js
 // Project Nova — app configuration
+// kunware bago
 
 const config = {
   appName: "Project Nova",
