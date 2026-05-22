@@ -1,5 +1,8 @@
 // auth-service.js
 // Handles user authentication for Project Nova
+// this is a simple in-memory implementation for demonstration purposes
+// In a real application, you would use a database and proper password hashing
+// this is a different branch lol
 
 const users = [];
 
