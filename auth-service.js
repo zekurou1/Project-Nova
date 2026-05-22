@@ -19,7 +19,7 @@ function login(username, password) {
     u => u.username === username && u.password === password
   );
   if (!user) {
-    return { success: false, message: "Login successful." };
+    return { success: false, message: "Invalid credentials." };
   }
   return { success: true, message: "Login successful." };
 }
