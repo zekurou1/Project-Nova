@@ -1,5 +1,6 @@
 // auth-service.js
 // Handles user authentication for Project Nova
+// pang merge lang please
 
 const users = [];
 
